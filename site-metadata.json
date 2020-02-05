@@ -1,0 +1,28 @@
+{
+    "layout_style": "overflow",
+    "palette": "blue",
+    "header": {
+        "title": "Buddy Agyin 🦁",
+        "tagline": "Hey, I'm Buddy! Welcome to my little corner of Dev.to. I'm currently a Web Developer based in SLC",
+        "profile_img": "https://res.cloudinary.com/practicaldev/image/fetch/s--m9ad1I54--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/326629/c25d5e08-5b7e-4b6e-8ffc-e473aea9a07a.jpg",
+        "bg": "dark",
+        "has_nav": true,
+        "has_social": true
+    },
+    "footer": {
+        "content": "&copy; All rights reserved.",
+        "links": [
+            {
+                "text": "Made with Stackbit",
+                "url": "https://www.stackbit.com",
+                "new_window": true
+            },
+            {
+                "text": "Generated from DEV",
+                "url": "https://dev.to/connecting-with-stackbit",
+                "new_window": true
+            }
+        ]
+    },
+    "title": "Stackbit Fresh Theme"
+}
